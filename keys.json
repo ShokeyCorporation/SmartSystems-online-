@@ -1,5 +1,14 @@
 {
-    "KEY123": "Baggy_InRoblox",
-    "KEY456": "Admin2",
-    "KEY789": "Admin3"
+    "key1": {
+        "creator": "Baggy_InRoblox",
+        "group": "GroupA"
+    },
+    "key2": {
+        "creator": "Admin2",
+        "group": "GroupB"
+    },
+    "key3": {
+        "creator": "Admin3",
+        "group": "GroupA"
+    }
 }

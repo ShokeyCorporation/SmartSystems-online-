@@ -2,6 +2,13 @@
   "SGFG150": {
     "Version": "1.5",
     "DownloadURL": "https://github.com/ShokeyCorporation/SmartSystems-online-/releases",
-    "Changelog": "Fixed security issues, improved performance"
+    "Changelog": "Fixed security issues, improved performance",
+    "Critical": false,
+    "MinVersion": "1.0"
+  },
+  "OTHER_PRODUCT": {
+    "Version": "2.1",
+    "DownloadURL": "https://example.com/updates",
+    "Changelog": "New features added"
   }
 }

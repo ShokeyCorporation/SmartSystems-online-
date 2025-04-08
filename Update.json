@@ -1,3 +1,7 @@
-Shokey_Os_1 (Not_Working)
-Shokey_Os_1.5 (Need_Update)
-Shokey_Os_2 (Need_Update)
+{
+  "SGFG150": {
+    "Version": "1.5",
+    "DownloadURL": "https://github.com/ShokeyCorporation/SmartSystems-online-/releases",
+    "Changelog": "Fixed security issues, improved performance"
+  }
+}
